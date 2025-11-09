@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Bhagyashree Patil</h1>
+<h1 align="center">Hey 👋, I'm Bhagyashree</h1>
 <h3 align="center">Software Developer | ML Engineer | Data Engineer</h3>
 
 ---
