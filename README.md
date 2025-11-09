@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/BhagyashreePatil/BhagyashreePatil/blob/main/banner.png" alt="Bhagyashree Patil Banner" width="100%">
-</p>
-
 <h1 align="center">Hey 👋, I'm Bhagyashree Patil</h1>
 <h3 align="center">Software Developer | ML Engineer | Data Engineer</h3>
 
