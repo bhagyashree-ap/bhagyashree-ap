@@ -82,4 +82,4 @@ I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with e
 [![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhagyashree-patil/)
 
 ## Contact
-**bpatil1199@gmail.com** • **[LinkedIn](https://www.linkedin.com/in/bhagyashree-patil)**
+**bap9622@nyu.edu** • **[LinkedIn](https://www.linkedin.com/in/bhagyashree-patil)**
