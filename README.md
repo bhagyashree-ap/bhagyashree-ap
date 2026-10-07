@@ -6,9 +6,9 @@ I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with e
 
 **Currently learning:** Go, gRPC and vLLM
 
-# Tech Stack
+## Tech Stack
 
-## Backend & Systems
+### Backend & Systems
 
 [![C](https://img.shields.io/badge/C-0F172A?logo=c&logoColor=A8B9CC)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-0F172A?logo=cplusplus&logoColor=00599C)](#)
@@ -57,7 +57,7 @@ I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with e
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?logo=github&logoColor=FFFFFF)](#)
 [![Postman](https://img.shields.io/badge/Postman-0F172A?logo=postman&logoColor=FF6C37)](#)
 
-## Machine Learning & AI
+### Machine Learning & AI
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?logo=pytorch&logoColor=EE4C2C)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?logo=tensorflow&logoColor=FF6F00)](#)
@@ -77,9 +77,9 @@ I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with e
 [![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?logo=opencv&logoColor=5C3EE8)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?logo=matplotlib&logoColor=11557C)](#)
 
-# Outside the Repo
+## Outside the Repo
 [![Medium](https://img.shields.io/badge/Medium-0F172A?logo=medium&logoColor=FFFFFF)](https://medium.com/@bhagyashree-patil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhagyashree-patil/)
 
-# Contact
+## Contact
 **bap9622@nyu.edu** • **[LinkedIn](https://www.linkedin.com/in/bhagyashree-patil)**
