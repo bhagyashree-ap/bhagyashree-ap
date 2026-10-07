@@ -1,86 +1,85 @@
-<h1 align="center">Hi, I'm Bhagyashree 👋</h1>
-<h3 align="center">Software Engineer • AI/ML Systems Engineer</h3>
+<img width="3668" height="1876" alt="image" src="https://github.com/user-attachments/assets/fc39e0ae-98e4-45fb-ade5-9d73d429b83d" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=57068C&size=22&center=true&vCenter=true&width=650&lines=MS+in+Computer+Science+%40+NYU;AI+Research+Intern+%40+NYU;Distributed+Systems+%26+AI+Infrastructure;Retrieval%2C+RAG+%26+Agentic+Systems" />
-</p>
+# Hi, I'm Bhagyashree!
 
-<p align="center">
- I’m a 2nd-year M.S. in Computer Science student at NYU and a Software Engineer with 2+ years of industry experience, building production grade distributed backend and AI/ML systems. Previously a Software Engineer at Amdocs, I worked on Spring Boot microservices, REST/SOAP APIs, CI/CD pipelines and AWS deployments for enterprise scale backend system. I’m currently an AI Research Intern at NYU’s Human Capital Analytics Lab, building GraphRAG based Career Intelligence System. My interests include Distributed Systems, Cloud Computing, AI Infrastructure, Production ML, Information Retrieval, GraphRAG and Agentic AI.
-</p>
+I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with experience building distributed systems, real time data pipelines and backend infrastructure. I focus on building scalable, reliable backend and ML systems, with an emphasis on performance and maintainability.
 
----
-
-<h3 align="center">⚡ Open to Full Time SWE / MLE Roles Starting May 2027</h3>
-
-<p align="center">
-  <a href="mailto:bpatil1199@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhagyashree-patil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
+**Currently learning:** Go, gRPC and vLLM
 
 ## Tech Stack
 
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
-</p>
+### Backend & Systems:
 
+[![C](https://img.shields.io/badge/C-0F172A?logo=c&logoColor=A8B9CC)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-0F172A?logo=cplusplus&logoColor=00599C)](#)
+[![Java](https://img.shields.io/badge/Java-0F172A?logo=openjdk&logoColor=ED8B00)](#)
+[![Python](https://img.shields.io/badge/Python-0F172A?logo=python&logoColor=3776AB)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?logo=javascript&logoColor=F7DF1E)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?logo=typescript&logoColor=3178C6)](#)
+[![SQL](https://img.shields.io/badge/SQL-0F172A?logo=postgresql&logoColor=4479A1)](#)
+•
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F172A?logo=springboot&logoColor=6DB33F)](#)
+[![JUnit](https://img.shields.io/badge/JUnit-0F172A?logo=junit5&logoColor=25A162)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?logo=fastapi&logoColor=009688)](#)
+[![Flask](https://img.shields.io/badge/Flask-0F172A?logo=flask&logoColor=FFFFFF)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-0F172A?logo=node.js&logoColor=339933)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-0F172A?logo=express&logoColor=FFFFFF)](#)
+[![REST API](https://img.shields.io/badge/REST%20API-0F172A?logo=fastapi&logoColor=009688)](#)
+[![SOAP](https://img.shields.io/badge/SOAP-0F172A?logo=soap&logoColor=008FC7)](#)
+[![WebSockets](https://img.shields.io/badge/WebSockets-0F172A?logo=socketdotio&logoColor=FFFFFF)](#)
+[![Microservices](https://img.shields.io/badge/Microservices-0F172A?logo=docker&logoColor=2496ED)](#)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0F172A?logo=apachekafka&logoColor=FFFFFF)](#)
+[![Redis](https://img.shields.io/badge/Redis-0F172A?logo=redis&logoColor=DC382D)](#)
+•
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?logo=postgresql&logoColor=4169E1)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-0F172A?logo=mysql&logoColor=4479A1)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?logo=mongodb&logoColor=47A248)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-0F172A?logo=sqlite&logoColor=003B57)](#)
+•
+[![React](https://img.shields.io/badge/React-0F172A?logo=react&logoColor=61DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-0F172A?logo=nextdotjs&logoColor=FFFFFF)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-0F172A?logo=html5&logoColor=E34F26)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-0F172A?logo=css3&logoColor=1572B6)](#)
+[![D3.js](https://img.shields.io/badge/D3.js-0F172A?logo=d3dotjs&logoColor=F9A03C)](#)
+•
+[![AWS](https://img.shields.io/badge/AWS-0F172A?logo=amazonaws&logoColor=FF9900)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0F172A?logo=googlecloud&logoColor=4285F4)](#)
+[![Docker](https://img.shields.io/badge/Docker-0F172A?logo=docker&logoColor=2496ED)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?logo=kubernetes&logoColor=326CE5)](#)
+•
+[![Jenkins](https://img.shields.io/badge/Jenkins-0F172A?logo=jenkins&logoColor=D24939)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?logo=githubactions&logoColor=2088FF)](#)
+[![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?logo=prometheus&logoColor=E6522C)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-0F172A?logo=grafana&logoColor=F46800)](#)
+[![Linux](https://img.shields.io/badge/Linux-0F172A?logo=linux&logoColor=FCC624)](#)
+•
+[![Git](https://img.shields.io/badge/Git-0F172A?logo=git&logoColor=F05032)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?logo=github&logoColor=FFFFFF)](#)
+[![Postman](https://img.shields.io/badge/Postman-0F172A?logo=postman&logoColor=FF6C37)](#)
 
-### **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,fastapi,pytorch,sklearn" />
-</p>
-<p>
-  <strong>Also:</strong> Transformers • Hugging Face • FAISS • Pandas • NumPy
-</p>
+### Machine Learning & AI:
 
+[![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?logo=pytorch&logoColor=EE4C2C)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?logo=tensorflow&logoColor=FF6F00)](#)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?logo=scikitlearn&logoColor=F7931E)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0F172A?logo=huggingface&logoColor=FFD21E)](#)
+[![Transformers](https://img.shields.io/badge/Transformers-0F172A?logo=huggingface&logoColor=FFD21E)](#)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0F172A?logo=apacheairflow&logoColor=017CEE)](#)
+[![FAISS](https://img.shields.io/badge/FAISS-0F172A?logo=meta&logoColor=0467DF)](#)
+[![GraphRAG](https://img.shields.io/badge/GraphRAG-0F172A?logo=neo4j&logoColor=4581C3)](#)
+[![Neo4j](https://img.shields.io/badge/Neo4j-0F172A?logo=neo4j&logoColor=4581C3)](#)
+[![Cypher](https://img.shields.io/badge/Cypher-0F172A?logo=neo4j&logoColor=4581C3)](#)
+[![RDFLib](https://img.shields.io/badge/RDFLib-0F172A?logo=python&logoColor=3776AB)](#)
+[![Prophet](https://img.shields.io/badge/Prophet-0F172A?logo=meta&logoColor=FFFFFF)](#)
+[![PySpark](https://img.shields.io/badge/PySpark-0F172A?logo=apachespark&logoColor=E25A1C)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-0F172A?logo=pandas&logoColor=150458)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-0F172A?logo=numpy&logoColor=013243)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?logo=opencv&logoColor=5C3EE8)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?logo=matplotlib&logoColor=11557C)](#)
 
-### **Backend & Distributed Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,redis" />
-</p>
-<p>
-  <strong>Also:</strong> REST • SOAP • Microservices • WebSockets • PySpark • Distributed Systems
-</p>
+## Outside the Repo:
+[![Medium](https://img.shields.io/badge/Medium-0F172A?logo=medium&logoColor=FFFFFF)](https://medium.com/@bhagyashree-patil)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhagyashree-patil/)
 
-
-### **Cloud & Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,linux,prometheus,grafana" />
-</p>
-<p>
-  <strong>Also:</strong> CI/CD
-</p>
-
-
-### **Databases & Knowledge Graphs**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-<p>
-  <strong>Also:</strong> Neo4j • Knowledge Graphs • Cypher • RDFLib • OWL/RDF
-</p>
-
-
-### **Developer Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-
----
-
-## Outside the Repo
-  <a href="https://medium.com/@bhagyashree-patil">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/bhagyashree-patil/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+## Contact
+**bpatil1199@gmail.com** • **[LinkedIn](https://www.linkedin.com/in/bhagyashree-patil)**
