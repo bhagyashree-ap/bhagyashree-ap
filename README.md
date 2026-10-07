@@ -87,9 +87,9 @@ I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with e
 
 💳 **ProAudit** - Engineered a Java/SQLite expense management application with persistent data storage and CSV processing pipelines for 10K+ expense records, implementing automated expense classification with 85-90% accuracy and searchable transaction management.
 
-📚 **SmartSeat** - Engineered a distributed full-stack course registration platform using Java, Spring Boot, React and MySQL, supporting 4K+ concurrent student sessions, 40+ REST APIs and 10K+ real time updates across point based course bidding, automated course allocation, enrollment and administrative workflows.
+📚 **SmartSeat** - Developed a distributed full-stack course registration platform using Java, Spring Boot, React and MySQL, supporting 4K+ concurrent student sessions, 40+ REST APIs and 10K+ real time updates across point based course bidding, automated course allocation, enrollment and administrative workflows.
 
-🚇 **NYC Transit Hub** - Built a real time Python/Flask transit monitoring system integrating MTA APIs to process 1K+ daily service updates, surfacing live subway/bus alerts and accessibility data while reducing information lookup time by 65%.
+🚇 **NYC Transit Hub** - Architected a real time Python/Flask transit monitoring system integrating MTA APIs to process 1K+ daily service updates, surfacing live subway/bus alerts and accessibility data while reducing information lookup time by 65%.
 
 📈 **Environmental Analytics Dashboard** - Built an interactive D3.js analytics platform for exploring sustainability trends across 5 brands, 10 countries and 10 years (2015 to 2024) through coordinated visual analytics.
 
