@@ -77,6 +77,31 @@ I’m a Backend and ML Engineer & an M.S. Computer Science student at NYU with e
 [![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?logo=opencv&logoColor=5C3EE8)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?logo=matplotlib&logoColor=11557C)](#)
 
+## Projects
+
+📍 **StudySpot** - Currently building a location based platform for NYC students to discover study spaces, connect with peers and collaborate in groups.
+
+📊 **TunnelVision** - Built a real time streaming analytics platform with Kafka, FastAPI, WebSockets, React, Prophet and PySpark, processing 121M fare records + 219K weather observations across 6 Dockerized services while streaming 8 GTFS Realtime feeds at 30-second intervals and forecasting next-hour ridership.
+
+⚡ **SVG Language Modelling** - Trained and evaluated Transformer model ranging from 1M to 80M parameters on 100M+ SVG tokens using PyTorch, designing standard parameterization (SP) vs. µP scaling experiments to study hyperparameter transfer across model scales and evaluate scaling behavior for SVG generation.
+
+💳 **ProAudit** - Engineered a Java/SQLite expense management application with persistent data storage and CSV processing pipelines for 10K+ expense records, implementing automated expense classification with 85-90% accuracy and searchable transaction management.
+
+📚 **SmartSeat** - Engineered a distributed full-stack course registration platform using Java, Spring Boot, React and MySQL, supporting 4K+ concurrent student sessions, 40+ REST APIs and 10K+ real time updates across point based course bidding, automated course allocation, enrollment and administrative workflows.
+
+🚇 **NYC Transit Hub** - Built a real time Python/Flask transit monitoring system integrating MTA APIs to process 1K+ daily service updates, surfacing live subway/bus alerts and accessibility data while reducing information lookup time by 65%.
+
+📈 **Environmental Analytics Dashboard** - Built an interactive D3.js analytics platform for exploring sustainability trends across 5 brands, 10 countries and 10 years (2015 to 2024) through coordinated visual analytics.
+
+## Experience
+
+• **AI Research Intern @ NYU (2026-Present)** - Built a Career Intelligence GraphRAG Platform using Neo4j, FAISS and LLM based retrieval, modeling 325K+ job and skill entities across O*NET, ESCO and SSOC data to enable semantic workforce intelligence and career path discovery, and evaluating retrieval and answer quality across 360 workforce queries.
+
+• **Research Assistant @ NYU (2025)** - Developed a Multimodal Study Resource Recommendation System using Python, PyTorch, PostgreSQL and FAISS, integrating NYU Library resources to support personalized, semantic recommendations across diverse study materials and user needs.
+
+• **Software Engineer @ Amdocs (2024-2025)** - Engineered and deployed Spring Boot microservices and 150+ REST/SOAP APIs powering enterprise billing, pricing, discounts, add-ons and CRM workflows, leveraging AWS, Jenkins and Python automation to streamline deployments and backend operations.
+
+
 ## Outside the Repo
 [![Medium](https://img.shields.io/badge/Medium-0F172A?logo=medium&logoColor=FFFFFF)](https://medium.com/@bhagyashree-patil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0F172A?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhagyashree-patil/)
